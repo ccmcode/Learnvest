@@ -1,0 +1,17 @@
+run
+compile
+run
+test
+run
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+quit()
+quit
+exit

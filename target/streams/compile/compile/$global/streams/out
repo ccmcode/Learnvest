@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/colin/Documents/workspace/LearnvestCodingChallenge/src/main/scala/com/learnvest/challenge/DummyScalaImplementation.scala:47:14: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Map[com.learnvest.challenge.input.Tranche,List[com.learnvest.challenge.output.Output]] (in scala.collection.mutable) [0m
+[0m[[0m[31merror[0m] [0m[0m required: Map[com.learnvest.challenge.input.Tranche,List[com.learnvest.challenge.output.Output]] (in scala.collection.immutable) [0m
+[0m[[0m[31merror[0m] [0m[0m      return out[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

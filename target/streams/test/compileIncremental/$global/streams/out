@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mThe com.learnvest.challenge.input.Tranche has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(isDebt,[Default]), UsedName(balance,[Default]), UsedName(rate,[Default]), UsedName(applyInterest,[Default]), UsedName(applyBalance,[Default]), UsedName(interest,[Default]), UsedName($init$,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) com.learnvest.challenge.input.Tranche: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) com.learnvest.challenge.input.Tranche.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of com.learnvest.challenge.SampleScalaTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe com.learnvest.challenge.input.EquityTranche$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(isDebt,[Default]), UsedName(balance,[Default]), UsedName(rate,[Default]), UsedName(applyInterest,[Default]), UsedName(applyBalance,[Default]), UsedName(interest,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) com.learnvest.challenge.input.EquityTranche$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) com.learnvest.challenge.input.EquityTranche$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of com.learnvest.challenge.SampleScalaTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe com.learnvest.challenge.input.DebtTranche$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(isDebt,[Default]), UsedName(balance,[Default]), UsedName(rate,[Default]), UsedName(applyInterest,[Default]), UsedName(applyBalance,[Default]), UsedName(interest,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) com.learnvest.challenge.input.DebtTranche$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) com.learnvest.challenge.input.DebtTranche$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of com.learnvest.challenge.SampleScalaTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe com.learnvest.challenge.input.Collateral$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(moreTerms,[Default]), UsedName(balance,[Default]), UsedName(prate,[Default]), UsedName(years,[Default]), UsedName(getPayment,[Default]), UsedName(rrate,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) com.learnvest.challenge.input.Collateral$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) com.learnvest.challenge.input.Collateral$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of com.learnvest.challenge.SampleScalaTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
